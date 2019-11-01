@@ -32,9 +32,9 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      Specialist nurse in one of the largest NHS hospitals in London,
-      working towards a career change into technology. Currently taking
-      online coding courses. I am pro-active, curious and self-motivated.
+      Former specialist nurse and current Coding Bootcamp student at Le Wagon. 
+      Working towards a career change into technology.
+      I am pro-active, curious and self-motivated.
       Strong team player with proven coordination and management skills.
       I enjoy mentoring and teaching junior staff and students.
       I am used to working in fast-paced, busy environments and dealing with stressful situations.
@@ -44,7 +44,9 @@ education:
       university: Le Wagon Academy, London
       time: 2019
       details: |
-        Full-time coding bootcamp
+        Full-time coding bootcamp. Learning Ruby and Ruby on Rails, SQL, Active Record and PostgreSQL, 
+        HTML, CSS and Bootstrap as well as JavaScript
+        
 
     - degree: Mentorship and Competency Based Education (postgraduate course)
       university: South Bank University, London
@@ -71,15 +73,15 @@ experiences:
       time: September 2017 - September 2019
       company: Royal Free Hospital, London
       details: |
-        I am responsible for end-to-end liver transplants. I am part of a team that assesses
+        I was responsible for end-to-end liver transplants. I was part of a team that asses
         and qualifies patients for liver transplants, this can mean making life and death decisions.
-        Once patients are on the transplant list, I teach them and their families how to manage their liver
-        disease and post-op care. When a liver is offered for transplant I coordinate a team of over 20 people
-        to ensure that the liver is retrieved in the hospital of origin, matched to an appropriate patient,
-        a surgical and medical team are ready in theatre and ICU, and the patient and the organ are transported
-        to the hospital. This coordination takes place on a tight timeline which requires I anticipate and mitigate problems.
-        Other responsibilities include carrying out monthly and annual audits of our database and organizing
-        teaching sessions for medical and nursing staff. This role has 24-hour on-call shifts.
+        Once patients were on the transplant list, my duties included teaching them and their families how to manage their liver
+        disease and post-op care. When a liver was offered for transplant I coordinated a team of over 20 people
+        to ensure that the liver was retrieved in the hospital of origin, matched to an appropriate patient,
+        a surgical and medical team were ready in theatre and ICU, and the patient and the organ were transported
+        to the hospital. This coordination took place on a tight timeline which required I anticipated and mitigated problems.
+        Other responsibilities included carrying out monthly and annual audits of our database and organizing
+        teaching sessions for medical and nursing staff. This role had 24-hour on-call shifts.
 
         Achievements: I collaborated in a campaign throughout the hospital to promote organ donation, encouraging staff
         to identify and refer potential donors. We managed to increase the number of liver transplants by over 20% in one year.
@@ -130,6 +132,9 @@ projects:
     title: Projects and courses
 
     assignments:
+     - title: Full-stack developer (Coding Bootcamp)
+        tagline: "Le Wagon"
+        
       - title: Introduction to HTML
         tagline: "Codecademy"
 
@@ -139,11 +144,8 @@ projects:
       - title: Learn Ruby
         tagline: "Codecademy"
 
-      - title: Introduction to Ruby
-        tagline: "Le Wagon (in-person course)"
-
       - title: Community meetups
-        tagline: "Attended meetups and talks about career change into technology, given by Makers Academy"
+        tagline: "Meetups and talks about technology and women in coding careers."
 
       - title: GitHub
         tagline: "This online CV is on my GitHub repository"
@@ -153,6 +155,21 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Ruby
+        level: 80%
+
+      - name: SQL
+        level: 60%
+        
+      - name: HTML & CSS
+        level: 60%
+        
+      - name: JavaScript
+        level: 60%
+
+      - name: Git
+        level: 50%
+        
       - name: Communication
         level: 96%
 
@@ -162,14 +179,7 @@ skills:
       - name: Problem solving
         level: 90%
 
-      - name: Leadership
-        level: 75%
 
-      - name: HTML & CSS
-        level: 18%
-
-      - name: Git
-        level: 12%
 
 footer: >
 
