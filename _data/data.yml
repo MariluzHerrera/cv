@@ -132,7 +132,7 @@ projects:
     title: Projects and courses
 
     assignments:
-     - title: Full-stack developer (Coding Bootcamp)
+      - title: Full-stack developer (Coding Bootcamp)
         tagline: "Le Wagon"
         
       - title: Introduction to HTML
