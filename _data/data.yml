@@ -66,6 +66,17 @@ education:
       time: 2004
 
 experiences:
+    - role: Junior Developer
+      time: Jan 2020 - Present
+      company: dxw digital, London
+      details: |
+      
+    - role: Teaching assistant
+      time: Jan 2019 - Present
+      company: Le Wagon, London
+      details: |
+        I collaborate with teachers of the coding bootcamp at Le Wagon, assisting students during the coding challenges of the course.
+      
     - role: Liver Transplant Coordinator
       time: September 2017 - September 2019
       company: Royal Free Hospital, London
