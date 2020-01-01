@@ -57,11 +57,11 @@ education:
       details: |
        Postgraduate course to become a specialist in ICU nursing, including theory and practice.
 
-    - degree: BSc in Nursing
+    - degree: BSc Hons in Nursing
       university: Complutense University of Madrid
       time: 2008
 
-    - degree: BSc in Teaching
+    - degree: BSc Hons in Teaching
       university: Complutense University of Madrid
       time: 2004
 
@@ -72,7 +72,7 @@ experiences:
       details: |
       
     - role: Teaching assistant
-      time: Jan 2019 - Present
+      time: Jan 2020 - Present
       company: Le Wagon, London
       details: |
         I collaborate with teachers of the coding bootcamp at Le Wagon, assisting students during the coding challenges of the course.
@@ -150,16 +150,16 @@ skills:
         level: 80%
 
       - name: SQL
-        level: 60%
+        level: 70%
         
       - name: HTML & CSS
-        level: 60%
+        level: 70%
         
       - name: JavaScript
         level: 60%
 
       - name: Git
-        level: 50%
+        level: 70%
         
       - name: Communication
         level: 96%
